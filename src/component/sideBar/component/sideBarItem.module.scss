@@ -1,0 +1,25 @@
+.sidebar-item{
+    width: 150px;
+    height: 44px;
+    font-weight: 700;
+    font-size: 1.6rem;
+    line-height: 18.75px;
+    color: #AAAAAA;
+    padding: 14px 0 11px 16px;
+    border-bottom: 1px solid #5c5c5c;
+    position: relative;
+}
+
+.home, .active{
+    color: #FFFFFF;
+}
+
+.active{
+    background: #5c5c5c;
+}
+
+.sidebar-item-mouseimg{
+    position: absolute;
+    top: 18px;
+    right: 18px;
+}
